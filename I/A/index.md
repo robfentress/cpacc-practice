@@ -86,7 +86,6 @@ The economic model creates a legally-defined category of people who are “needy
 ### Strengths of the Functional Solutions Model:
 
 The strongest aspect of this model is that it is results-oriented. It seeks to provide solutions to real-world challenges, while sidestepping the often convoluted sociopolitical implications of disability within society.
-
  
 ### Weaknesses of the Functional Solutions Model:
 When new technologies are involved, profit-driven entrepreneurs can sometimes miss the mark, creating products that may be innovative but not practical or useful, or which may be of more benefit to the innovators than to the target population, especially if the proposed solutions are expensive. Also, when the primary cause of a particular challenge is the socioeconomic circumstances in the environment, the functional solutions model's de-emphasis on socioeconomic issues can cause would-be innovators to ignore the most important aspects of the original problem.
@@ -111,7 +110,7 @@ Sometimes the sense of belonging felt by one group of people is counterbalanced 
 ### Resources of the Social Identity or Cultural Affiliation Model:
 
 ## 6.	Charity Model
-Definition of the Charity Model:
+### Definition of the Charity Model:
 
 The charity model regards people with disabilities as unfortunate and in need of assistance from the outside, with those providing charity viewed as benevolent contributors to a needy population.
  
