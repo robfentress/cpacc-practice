@@ -35,4 +35,8 @@ What is a strength of the medical model of disability?
 ```
 ## 2. By forking repository and submitting a pull request
 
+[GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+
 ## 3. If a contributor, by creating a branch and submitting a pull request
+
+If you are regularly submitting questions, you can request to be added as a contributor.  As a contributor, you won't have to fork the project.  Rather, you can just create a branch in the base repository and make a pull request from that branch.  Also, as a contributor, you'll be able to make comments on other's pull requests.
