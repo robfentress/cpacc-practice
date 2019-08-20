@@ -1,5 +1,7 @@
-# Practice Questions for the Certified Proefssional in Accessibility Core Competencies Exam
+# Practice Questions for the Certified Professional in Accessibility Core Competencies Exam
 This will serve as a repository for CPACC Practice Questions in [GIFT Format](https://docs.moodle.org/37/en/GIFT_format).  You can use the [GIFT Question Editor](https://fuhrmanator.github.io/GIFT-grammar-PEG.js/docs/editor/editor.html) to ensure your questions parse correctly.  You can use the [Gift2QTI tool](https://github.com/csev/gift2qti) to convert GIFT to the more universal IMS-QTI test format for import into your course management system.  These questions should be based on the [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx).
+
+[How do I submit questions for review?](submit.md)
 
 ## I: Disabilities, Challenges, and Assistive Technologies
 ### [A.	Theoretical Models of Disability](I/A/index.md)
