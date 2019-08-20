@@ -17,7 +17,9 @@ Also include:
 * A reference to any source materials you are basing the question on
 * The numbered _"study task"_ listed in the [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx) that your question relates to.  
 
-An example submission would be something like:
+***
+
+An example submission would be something like this:
 
 ## Question
 ```
