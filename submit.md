@@ -27,7 +27,7 @@ An example submission would be something like this:
 
 What is a strength of the medical model of disability?
 {
-  =It defines disability in a way that facilitates treatment of the individual by the medical profession. # right;
+  =It defines disability in a way that facilitates treatment of the individual by the medical profession.
   ~It emphasizes the responsibility of society for creating enabling conditions for all people.
   ~It encourages individuals to view themselves as a class with common interests, so they can more effectively advocate for their rights.
   ~It encourages empathy for those with disabilities.
