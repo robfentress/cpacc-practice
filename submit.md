@@ -33,3 +33,6 @@ What is a strength of the medical model of disability?
   ~It encourages empathy for those with disabilities.
 }
 ```
+## 2. By forking repository and submitting a pull request
+
+## 3. If a contributor, by creating a branch and submitting a pull request
