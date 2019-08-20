@@ -2,7 +2,7 @@
 You may submit questions in one of three ways:
 ## 1. By submitting an issue with your question
 
-The requirements for the question are as follows:
+Submit a [proposed question issue](https://github.com/robfentress/cpacc-practice/issues/new?assignees=&labels=proposed+question&template=proposed-question.md&title=%5BQUESTION%5D). The requirements for the question are as follows:
 
 * It should be a multiple choice question 
   * with four possible answers and 
