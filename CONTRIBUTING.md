@@ -11,7 +11,7 @@ Submit a [proposed question issue](https://github.com/robfentress/cpacc-practice
 * It should not include a title
 
 Precede your questions with comments that include:
-* The numbered _"study task"_ listed in the [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx) that your question relates to.  
+* The numbered _"study task"_ listed in the [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx) that your question relates to.  If there is no study task, include the section of the CPACC your question relates to.
 * A reference to any source materials you are basing the question on
 
 ***
