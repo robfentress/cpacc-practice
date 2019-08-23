@@ -3,21 +3,21 @@ This will serve as a repository for CPACC Practice Questions in [GIFT Format](ht
 
 [How do I submit questions for review?](CONTRIBUTING.md)
 
-## I: Disabilities, Challenges, and Assistive Technologies
+## I: Disabilities, Challenges, and Assistive Technologies (40% of the exam)
 ### A. [Theoretical Models of Disability](I/A/index.md)
-### B. Characteristics and Categories of Disabilities, Challenges, Including Associated Barriers
-### C. Assistive Technologies and Adaptive Strategies at the Level of the Individual for Permanent, Temporary, and Episodic 
-### D. Disability Demographics and Statistics
-### E. Disability EtiquetteDisabilities (ICT and Physical World)
-## II. Accessibility and Universal Design
+### B. [Categories of Disabilities and Associated Barriers (ICT and Physical World)](I/B/index.md)
+### C. [Assistive Technologies and Adaptive Strategies](I/C/index.md)
+### D. [Disability Demographics and Statistics](I/D/index.md)
+### E. [Disability Etiquette](I/E/index.md) 
+## II. Accessibility and Universal Design (40% of the exam)
 ### A. Individual Accommodations versus Inclusive Design
 ### B. Benefits of Accessibility
-### C. Accessibility Principles for ICT (WCAG 2.0)
-### D. Accessibility Principles for the Physical World (Universal Design 2.0)
+### C. Accessibility in ICT (WCAG 2.0)
+### D. Accessibility in the Physical World (The Principles of Universal Design 2.0)
 ### E. Universal Design for Learning (UDL)
-### F. Usability and User Experience (UX)
-## III. Laws, Regulations, Standards, Policies, and Organizational Accessibility Strategies
+### F. Accessibility and Usability/User Experience (UX)
+## III. Laws, Regulations, Standards, Policies, and Organizational Accessibility Strategies (20% of the exam)
 ### A. International Conventions and Treaties on Disability Rights
 ### B. Categories of Disability Laws and Regulations
 ### C. Applying Accessibility Standards and Regulations
-### D. Integrating Accessibility Across Your Organization
+### D. Organizational Governance and Management
