@@ -10,12 +10,12 @@ This will serve as a repository for CPACC Practice Questions in [GIFT Format](ht
 ### D. [Disability Demographics and Statistics](I/D/index.md)
 ### E. [Disability Etiquette](I/E/index.md) 
 ## II. Accessibility and Universal Design (40% of the exam)
-### A. Individual Accommodations versus Inclusive Design
-### B. Benefits of Accessibility
-### C. Accessibility in ICT (WCAG 2.0)
-### D. Accessibility in the Physical World (The Principles of Universal Design 2.0)
-### E. Universal Design for Learning (UDL)
-### F. Accessibility and Usability/User Experience (UX)
+### A. [Individual Accommodations versus Inclusive Design](II/A/index.md)
+### B. [Benefits of Accessibility](II/B/index.md)
+### C. [Accessibility in ICT (WCAG 2.0)](II/C/index.md)
+### D. [Accessibility in the Physical World (The Principles of Universal Design 2.0)](II/D/index.md)
+### E. [Universal Design for Learning (UDL)](II/E/index.md)
+### F. [Accessibility and Usability/User Experience (UX)](II/F/index.md)
 ## III. Laws, Regulations, Standards, Policies, and Organizational Accessibility Strategies (20% of the exam)
 ### A. International Conventions and Treaties on Disability Rights
 ### B. Categories of Disability Laws and Regulations
