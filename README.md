@@ -4,7 +4,7 @@ This will serve as a repository for CPACC Practice Questions in [GIFT Format](ht
 [How do I submit questions for review?](CONTRIBUTING.md)
 
 ## I: Disabilities, Challenges, and Assistive Technologies
-### A. Theoretical Models of Disability](I/A/index.md)
+### A. [Theoretical Models of Disability](I/A/index.md)
 ### B. Characteristics and Categories of Disabilities, Challenges, Including Associated Barriers
 ### C. Assistive Technologies and Adaptive Strategies at the Level of the Individual for Permanent, Temporary, and Episodic 
 ### D. Disability Demographics and Statistics
