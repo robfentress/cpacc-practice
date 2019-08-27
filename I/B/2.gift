@@ -1,0 +1,17 @@
+// Study task: I:B.2 Classify specific conditions under their relevant disability category or categories
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+// The Wikipedia entry on [Achromatopsia](https://en.wikipedia.org/wiki/Achromatopsia)
+// [Types of Colour Blindness](http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/)
+// The [Blue-yellow color blindness section](https://en.wikipedia.org/wiki/Color_blindness#Blue-yellow_color_blindness) of the Wikipedia article on Color Blindness
+
+// Contributor: Pabitra Kumar Dash
+
+Which of the following is the most common deficit in people with color blindness?
+{
+  =Difficulty distinguishing between reds and greens
+  ~Difficulty distinguishing between reds and blues
+  ~Difficulty distinguishing between greens and blues
+  ~An inability to distinguish between any colors
+}
