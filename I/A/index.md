@@ -1,13 +1,13 @@
 # A. Theoretical Models of Disability
 Recommended study tasks:
-1.	Characterize and differentiate between theoretical models of disability, including the strengths and weaknesses of their underlying assumptions [questions](1.gift)
-2.	Identify the names, terminology, and basic concepts of prominent theoretical models of disability. [questions](2.gift)
-3.	Compare and contrast the underlying assumptions of the different models. [questions](3.gift)
-4.	Compare the implications of each model on public and personal perceptions of disability. [questions](4.gift)
-5.	Evaluate the strengths and weaknesses of each model [questions](5.gift)
-6.	Demonstrate an understanding of which models align most closely with the principles of accessibility and universal design. [questions](6.gift)
-7.	Demonstrate an understanding of ways in which various models may overlap or complement each other. [questions](7.gift)
-8.	Apply the models to example scenarios in the lives of people with disabilities. [questions](8.gift)
+1.	Characterize and differentiate between theoretical models of disability, including the strengths and weaknesses of their underlying assumptions [questions for I:A.1](1.gift)
+2.	Identify the names, terminology, and basic concepts of prominent theoretical models of disability. [questions for I:A.2](2.gift)
+3.	Compare and contrast the underlying assumptions of the different models. [questions for I:A.3](3.gift)
+4.	Compare the implications of each model on public and personal perceptions of disability. [questions for I:A.4](4.gift)
+5.	Evaluate the strengths and weaknesses of each model [questions for I:A.5](5.gift)
+6.	Demonstrate an understanding of which models align most closely with the principles of accessibility and universal design. [questions for I:A.6](6.gift)
+7.	Demonstrate an understanding of ways in which various models may overlap or complement each other. [questions for I:A.7](7.gift)
+8.	Apply the models to example scenarios in the lives of people with disabilities. [questions for I:A.8](8.gift)
 
 ## 1.	Medical Model
 ### Definition of the Medical Model:
