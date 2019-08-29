@@ -1,0 +1,16 @@
+$CATEGORY: cpacc-practice/I/B/4
+
+// Study task: I:B.4 Match disability categories with relevant assistive technologies
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+// Contributor: Pabitra Kumar Dash
+
+Which one of the following assistive technologies is most commonly used by people who are blind?
+{
+  =Screen reading software
+  ~Speech recognition software
+  ~Screen magnification software
+  ~Software that enhances contrast
+}
