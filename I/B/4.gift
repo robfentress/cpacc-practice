@@ -15,9 +15,6 @@ Which one of the following assistive technologies is most commonly used by peopl
   ~Software that enhances contrast
 }
 
-
-// Study task: I:B.4 Match disability categories with relevant assistive technologies
-
 // Sources:
 // The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
 
@@ -29,4 +26,17 @@ Which one of the following assistive technologies can be useful for people who h
   ~Screen magnification software
   ~Software that enhances contrast
   =All of the above
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+// Contributor: Pabitra Kumar Dash
+
+Which of the following would allow people who are deaf to access video content?
+{
+  =Synchronized captions with video
+  ~Text-to-speech software
+  ~Video with audio track
+  ~Video with no audio track
 }
