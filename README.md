@@ -11,7 +11,9 @@ To see how I've numbered things specifically, just dig into the relevant section
 
 A new edition of the CPACC BOK should be coming soon and, assuming they have fixed the problems in the Body of Knowledge, I will reformat things to match how IAAP has chosen to do it.
 
-[How do I submit questions for review?](CONTRIBUTING.md)
+## How do I submit questions for review?
+
+[How to contribute](CONTRIBUTING.md)
 
 ## Let me see how you've modified the structure and numbering
 Burrow down into the following links to see how we've modified and renumbered Sections and/or Study Tasks
