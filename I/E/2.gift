@@ -1,0 +1,18 @@
+$CATEGORY: cpacc-practice/I/E/2
+
+// Study task: I:E.2 Judge the appropriateness of various ways of referring to or about people with disabilities
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+// [Deque University: Talking about People with Disabilities](https://dequeuniversity.com/class/iaap-cpacc1/disability-etiquette/talking-about)
+
+
+// Contributor: [Carly Gerard](https://github.com/CarlyGerard)
+
+Which of the following is an example of "People First" language? 
+{
+  ~Crippled 
+  ~The handicapped 
+  =People who are blind 
+  ~The blind
+}
