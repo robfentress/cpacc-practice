@@ -1,7 +1,8 @@
 ---
 name: Proposed question
-about: Submit a question here
-title: "[QUESTION]"
+about: Submit a question here. By so doing you confirm that this is not taken verbatim
+  from copyrighted material.
+title: Question for [Section or Study Task Number]
 labels: proposed question
 assignees: ''
 
