@@ -1,5 +1,5 @@
-# A.	International Conventions and Treaties on Disability Rights
-Recommended study tasks:
-1. Name prominent international documents or agreements related to disability and human rights.
-2. Explain the main purposes of each convention or treaty.
-3. Explain the relationships between the declarations and treaties.
+# III. Laws, Regulations, Standards, Policies, and Organizational Accessibility Strategies (20% of the exam)
+* [A. International Conventions and Treaties on Disability Rights](A/index.md)
+* [B. Categories of Disability Laws and Regulations](B/index.md)
+* [C. Applying Accessibility Standards and Regulations](C/index.md)
+* [D. Organizational Governance and Management](D/index.md)
