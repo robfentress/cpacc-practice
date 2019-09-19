@@ -1,0 +1,6 @@
+# I: Disabilities, Challenges, and Assistive Technologies (40% of the exam)
+* [A. Theoretical Models of Disability](A/index.md)
+* [B. Categories of Disabilities and Associated Barriers (ICT and Physical World)](B/index.md)
+* [C. Assistive Technologies and Adaptive Strategies](C/index.md)
+* [D. Disability Demographics and Statistics](D/index.md)
+* [E. Disability Etiquette](E/index.md) 
