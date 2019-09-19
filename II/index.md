@@ -1,0 +1,7 @@
+# II. Accessibility and Universal Design (40% of the exam)
+* [A. Individual Accommodations versus Inclusive Design](A/index.md)
+* [B. Benefits of Accessibility](B/index.md)
+* [C. Accessibility in ICT (WCAG 2.0)](C/index.md)
+* [D. Accessibility in the Physical World (The Principles of Universal Design 2.0)](D/index.md)
+* [E. Universal Design for Learning (UDL)](E/index.md)
+* [F. Accessibility and Usability/User Experience (UX)](F/index.md)
