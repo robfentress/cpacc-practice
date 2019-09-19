@@ -40,3 +40,7 @@ What is a strength of the medical model of disability?
 ## 3. If a contributor, by creating a branch and submitting a pull request
 
 If you are regularly submitting questions, you can request to be added as a contributor.  As a contributor, you won't have to fork the project.  Rather, you can just create a branch in the base repository and make a pull request from that branch.  Also, as a contributor, you'll be able to make comments on other's pull requests to help in the peer review of questions.  Just open a [contributor request issue](https://github.com/robfentress/cpacc-practice/issues/new?assignees=&labels=&template=contributor-request.md&title=).
+
+## License
+
+By contributing questions, you confirm that what you have submitted is not otherwise copyrighted material and agree to license your contribution under the terms of the [Creative Commons Attribution Share Alike 4.0 International](https://github.com/robfentress/cpacc-practice/blob/master/LICENSE)
