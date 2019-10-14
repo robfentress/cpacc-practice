@@ -16,8 +16,4 @@ A new edition of the CPACC BOK should be coming soon and, assuming they have fix
 [How to contribute](CONTRIBUTING.md)
 
 ## Let me see how you've modified the structure and numbering
-Burrow down into the following links to see how we've modified and renumbered Sections and/or Study Tasks
-
-* [I: Disabilities, Challenges, and Assistive Technologies (40% of the exam)](I/index.md)
-* [II. Accessibility and Universal Design (40% of the exam)](II/index.md)
-* [III. Laws, Regulations, Standards, Policies, and Organizational Accessibility Strategies (20% of the exam)](III/index.md)
+Complete [list of study tasks](study-tasks.md) from Body of Knowledge
