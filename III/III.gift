@@ -1,0 +1,226 @@
+$CATEGORY: cpacc-practice/III
+
+// III. Laws, Regulations, Standards, Policies, and Organizational Accessibility Strategies
+
+// Sources:
+// [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/?q=non-discrimination-law)
+
+Which of the following could best be described as a civil rights or non-discrimination law?
+{
+  ~Guidelines on Dissemination of Information through Government Websites (Hong Kong)
+  ~EN 301 549
+  =The Americans with Disabilities Act
+  ~Section 508 of the Rehabilitation Action of 1973
+}
+
+// Sources:
+// [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/?q=non-discrimination-law)
+
+Which of the following could best be described as a civil rights or non-discrimination law?
+{
+  ~21st Century Communications and Video Accessibility Act (CVAA)
+  =Section 504 of the Rehabilitation Action of 1973
+  ~The Universal Declaration of Human Rights
+  ~The Web Content Accessibility Guidelines (WCAG)
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+Which of the following could best be described as a multi-national standard or policy?
+{
+  =The Web Content Accessibility Guidelines (WCAG)
+  ~Section 508 of the Rehabilitation Action of 1973
+  ~The Individuals with Disabilities Act
+  ~The Americans with Disabilities Act
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+According to the CPACC Body of Knowledge, which of the following is an example of a procurement law?
+{
+  ~The Web Content Accessibility Guidelines (WCAG)
+  =Section 508 of the Rehabilitation Action of 1973
+  ~The Americans with Disabilities Act of 1990
+  ~Convention on the Rights of Persons with Disabilities
+}
+
+// Sources:
+// [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/?q=non-discrimination-law)
+
+Which of the following could best be described as a civil rights or non-discrimination law?
+{
+  ~The Web Content Accessibility Guidelines (WCAG)
+  =The Accessibility for Ontarians with Disabilities Act (AODA)
+  ~Section 508 of the Rehabilitation Action of 1973
+  ~EN 301 549
+}
+
+// Sources:
+// [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/?q=non-discrimination-law)
+
+Which of the following could best be described as a civil rights or non-discrimination law?
+{
+  =The Equality Act of 2010
+  ~Web Accessibility Initiative Accessible Rich Internet Applications (WAI-ARIA)
+  ~The Universal Declaration of Human Rights
+  ~EN 301 549
+}
+
+// Sources:
+// [Technology Laws section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/technology-domain)
+
+Which of the following could best be described as a domain-specific law or regulation?
+{
+  ~Section 508 of the Rehabilitation Action of 1973
+  ~The Act on the Elimination of Discrimination against Persons with Disabilities
+  ~Standards sur l'accessibilité du Web
+  =21st Century Communications and Video Accessibility Act (CVAA) (U.S.)
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+Civil rights laws could best be viewed as taking their cue from which theoretical model of disability?
+{
+  ~Charity/Tragedy Model
+  =Social Model
+  ~Medical Model
+  ~Legal Model
+}
+
+// Sources:
+// [Government accessibility standards and WCAG 2 | PowerMapper](https://www.powermapper.com/blog/government-accessibility-standards/)
+
+The Disability Discrimination Act of 1992 sets accessibility standards for which country?
+{
+  ~Canada
+  =Australia
+  ~India
+  ~Ireland
+}
+
+// Sources:
+// [France | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/france/)
+
+The Référentiel Général d'Accessibilité pour les Administrations (RGAA) sets accessibility standards for which province or state?
+{
+  ~Quebec
+  ~Belgium
+  =France
+  ~Gabon
+}
+
+// Sources:
+// [Government accessibility standards and WCAG 2 | PowerMapper](https://www.powermapper.com/blog/government-accessibility-standards/)
+
+The Standards sur l'accessibilité du Web sets accessibility standards for which province or state?
+{
+  =Quebec
+  ~France
+  ~Belgium
+  ~Italy
+}
+
+// Sources:
+// [Government accessibility standards and WCAG 2 | PowerMapper](https://www.powermapper.com/blog/government-accessibility-standards/)
+
+The Equal Rights of Persons with Disabilities Law, 5758-1998 sets accessibility standards for which country?
+{
+  ~Australia
+  ~Canada
+  ~USA
+  =Israel
+}
+
+// Sources:
+// [Government accessibility standards and WCAG 2 | PowerMapper](https://www.powermapper.com/blog/government-accessibility-standards/)
+
+The Federal Disabled Equalization Law (BGG) sets accessibility standards for which country?
+{
+  ~India
+  ~Hong Kong
+  ~Ireland
+  =Germany
+}
+
+// Sources:
+// [Civil Rights Laws section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/civil-rights)
+
+The Americans with Disabilities Act (ADA) applies to which groups?
+{
+  ~Only the federal government
+  ~All private entities
+  ~Only federal and state government entities
+  =Private entities that own, operate, lease, or lease to places of public accommodation
+}
+
+// Sources:
+// [Civil Rights Laws section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/civil-rights)
+
+How is the Americans with Disabilities Act (ADA) enforced?
+{
+  =Consumers (people with disabilities) filing formal complaints
+  ~The Department of Justice conducts annual reviews of all federal government entities for compliance
+  ~It is a published standard not a law, so there are no enforcement mechanisms
+  ~The Social Security Administration conducts surveys of individual receiving disability benefits and uses that identify targets for investigation
+}
+
+// Sources:
+// [Technology Laws section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/technology-domain)
+
+The Air Carrier Access Act (ACAA) applies to which of the following?
+{
+  ~Only U.S. air carriers
+  ~Only U.S. air carriers offering flights between states
+  =U.S. and foreign air carriers operating flights within or to the U.S. or selling tickets to the U.S. public
+  ~All air carriers based in countries which are signatories to the Convention on the Rights of the Disabled
+}
+
+// Sources:
+// [Government accessibility standards and WCAG 2 | PowerMapper](https://www.powermapper.com/blog/government-accessibility-standards/)
+
+The Equal Rights of Persons with Disabilities Law, 5758-1998 (Israel) applies to which of the following?
+{
+  ~Only government websites
+  =All government websites, and websites of businesses with annual turnover of 500,000 ILS (approx USD $125,000)
+  ~All government websites, and websites of businesses
+  ~Only websites of the Disability Services Administration
+}
+
+// Sources:
+// [Technology Laws section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/technology-domain)
+
+The 21st Century Communications and Video Accessibility Act (CVAA) applies to which of the following?
+{
+  ~Only the Public Broadcasting System
+  ~Only telecommunications hardware and software providers
+  ~Only television broadcasters
+  =All entities already covered by FCC regulations (namely: telecommunication hardware and software providers and television broadcasters and television hardware/software providers)
+}
+
+// Sources:
+// [UN Convention on the Rights of Persons with Disabilities section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/un-convention)
+// [The Universal Declaration of Human Rights section of the IAAP CPACC Certification Prep course from Deque University](https://dequeuniversity.com/class/iaap-cpacc1/accessibility-laws/un-declaration)
+// [Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/)
+// [Convention on the Rights of Persons with Disabilities](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)
+
+Which of the following is NOT true about the Universal Declaration of Human Rights?
+{
+  ~All member states of the United Nations have agreed to abide by the declaration.
+  =It specifically defines the obligation of governments have to guarantee the rights of people with disabilities access information, including information technology.
+  ~It was adopted by the United Nations General Assembly in 1948.
+  ~It states that everyone has the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
+}
+
+// Sources:
+// [Government accessibility standards and WCAG 2 | PowerMapper](https://www.powermapper.com/blog/government-accessibility-standards/)
+
+The Norwegian Anti-Discrimination and Accessibility Act (No. 42 of 2008) requires which websites to meet WCAG 2 AA (with some exceptions regarding time-based media and social media)?
+{
+  =All websites without exception
+  ~Government and commercial websites created from July 2013 on
+  ~Only government websites created from July 2013 on
+  ~All government and commercial websites created from July 2008 on
+}
