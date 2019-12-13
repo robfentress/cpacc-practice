@@ -1,0 +1,124 @@
+$CATEGORY: cpacc-practice/II/D
+
+// D. Accessibility Principles for the Physical World (Universal Design 2.0)
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+Which of the following is NOT one of the Principles of Universal Design?
+{
+  ~Equitable Use
+  =Legal Protection
+  ~Tolerance for Error
+  ~Low Physical Effort
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+Arranging information consistent with its importance best exemplifies which Universal Design principle?
+{
+  ~Flexibility in Use
+  ~Equitable Use
+  =Simple and Intuitive Use
+  ~Tolerance for Error
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+Allowing users to maintain a neutral body position best exemplifies which Universal Design principle?
+{
+  =Low Physical Effort
+  ~Perceptible Information
+  ~Tolerance for Error
+  ~Flexibility in Use
+}
+
+// Sources:
+// The [Certified Professional in Accessibility Core Competencies Body of Knowledge](https://iaap.membershipsoftware.org/files/IAAP%20CPACC%20BOK%202017_062317.docx)
+
+Providing adequate space for the use of assistive devices or personal assistance best exemplifies which Universal Design principle?
+{
+  ~Low Physical Effort
+  ~Perceptible Information
+  =Size and Space for Approach and Use
+  ~Flexibility in Use
+}
+
+// Sources:
+// [IAAP CPACC Certification Preparation > Universal Design for the Physical World](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/)
+
+Providing the same means of use for all users--identical whenever possible; equivalent when not--is an example of which Universal Design principle?
+{
+  ~Low Physical Effort
+  =Equitable Use
+  ~Flexibility in Use
+  ~Perceptible Inofrmation
+}
+
+// Sources:
+// [IAAP CPACC Certification Preparation > Universal Design for the Physical World](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/)
+
+Using different modes (pictorial, verbal, tactile) for redundant presentation of essential information is an example of which Universal Design principle?
+{
+  ~Flexibility in Use
+  =Perceptible Information
+  ~Equitable Use
+  ~Tolerance for Error
+}
+
+// Sources:
+// [IAAP CPACC Certification Preparation > Universal Design for the Physical World](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/)
+
+Providing adaptability to the user's pace is an example of which Universal Design principle?
+{
+  =Flexibility in Use
+  ~Tolerance for Error
+  ~Perceptible Information
+  ~Size and Space for Approach and Use
+}
+
+// Sources:
+// [IAAP CPACC Certification Preparation > Universal Design for the Physical World](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/)
+
+What is the name of the Universal Design principle that is demonstrated by accommodating variations in hand and grip size?
+{
+  ~Flexibility in Design
+  ~Simple and Intuitive Use
+  ~Flexibility in Use
+  =Size and Space for Approach and Use
+}
+
+// Sources:
+// [IAAP CPACC Certification Preparation > Universal Design for the Physical World](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/)
+
+What is the name of the Universal Design principle that is demonstrated by minimizing repetitive actions?
+{
+  ~Tolerance for Error
+  =Low Physical Effort
+  ~Ease of Use
+  ~Minimize Physical Effort
+}
+
+// Sources:
+// [Deque University > IAAP CPACC Certification Preparation> Universal Design for the Physical World > Sidewalks](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/sidewalks)
+
+What is the principle purpose for bumped tiles and ridged tiles in curb cuts?
+{
+  ~To slow down wheelchair users to prevent them from accidentally entering crosswalks prematurely
+  ~To provide extra traction to assist wheelchair users in climbing a sloped surface
+  =To help warn pedestrians who are blind of an approaching intersection
+  ~To channel rainwater away from the path
+}
+
+// Sources:
+// [Deque University > IAAP CPACC Certification Preparation> Universal Design for the Physical World > Sidewalks](https://dequeuniversity.com/class/iaap-cpacc1/universal-design-physical-world/sidewalks)
+
+Which of the following is NOT a requirement in order for a sidewalk to be considered accessible?
+{
+  ~has no obstacles for wheelchair users or for blind users to bump into
+  ~has curb cuts to allow wheelchair access to and from the sidewalk to other surfaces
+  =is graded to promote drainage and prevent pooling of water on the surface
+  ~is broad enough to allow people in wheelchairs to navigate and pass by others
+}
